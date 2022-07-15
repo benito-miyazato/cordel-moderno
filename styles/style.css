@@ -34,7 +34,7 @@ main {
 
 .foto {
   position: relative;
-  background-color: aqua;
+  background-color: rgb(22, 26, 26);
   padding: 20px;
   background-position: center center;
   background-size: cover;
@@ -50,11 +50,11 @@ main {
   background-attachment: fixed;
 }
 
-#foto2{
-    background-image: url("imagens/background002.jpg");
-    background-position: left bottom;
+#foto2 {
+  background-image: url("imagens/background002.jpg");
+  background-position: left bottom;
 }
-.pInsideImg {
+.insideImg {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
